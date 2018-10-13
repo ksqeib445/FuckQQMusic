@@ -1,0 +1,2 @@
+# FuckQQMusic
+FuckQQMusic use C++
